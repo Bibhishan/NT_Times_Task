@@ -1,0 +1,68 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/90ef15d0-3c26-5344-bb97-f0db1847d27b",
+            "url": "https://www.nytimes.com/2023/07/08/style/girl-dinner.html",
+            "id": 100000008982852,
+            "asset_id": 100000008982852,
+            "source": "New York Times",
+            "published_date": "2023-07-08",
+            "updated": "2023-07-12 19:25:21",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Food;Snack Foods;Women and Girls;Diet and Nutrition;Social Media;internal-sub-only;TikTok (ByteDance)",
+            "column": null,
+            "byline": "By Jessica Roy",
+            "type": "Article",
+            "title": "Is It a Meal? A Snack? No, It’s ‘Girl Dinner.’",
+            "abstract": "Women across TikTok are showing off their suppers — snack plates made by one person, for the consumption and enjoyment of one person.",
+            "des_facet": [
+                "Food",
+                "Snack Foods",
+                "Women and Girls",
+                "Diet and Nutrition",
+                "Social Media",
+                "internal-sub-only"
+            ],
+            "org_facet": [
+                "TikTok (ByteDance)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Girl dinner could be anything.",
+                    "copyright": "Alana Laverty",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/09/multimedia/08GIRL-DINNER-01-qkhm/08GIRL-DINNER-01-qkhm-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/09/multimedia/08GIRL-DINNER-01-qkhm/08GIRL-DINNER-01-qkhm-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/09/multimedia/08GIRL-DINNER-01-qkhm/08GIRL-DINNER-01-qkhm-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
